@@ -1,6 +1,6 @@
 # 🏠 Kamernet Scraper Bot
 
-This Python script monitors new room listings on [Kamernet.nl](https://kamernet.nl) and sends Telegram notifications. Let's find a fu**ing room in Amsterdam.
+This Python script monitors new room listings on [Kamernet.nl](https://kamernet.nl) and sends Telegram notifications. Let's find a room in Amsterdam.
 
 ## ✅ Features
 - Scrapes Kamernet using Selenium
